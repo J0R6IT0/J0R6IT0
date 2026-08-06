@@ -1,56 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 200" width="900" height="200" role="img">
+  <rect width="900" height="200" rx="16" fill="#2D2B2B" />
 
-            <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="z-index:1;position:relative" width="854" height="150" viewBox="0 0 854 150">
-                <style>
-                        .text {
-						font-size: 70px;
-						font-weight: 700;
-						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-					}
-					.desc {
-						font-size: 20px;
-						font-weight: 500;
-						font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
-					}.text, .desc {
-						transform-origin: center center;
-						transform:rotate(0deg);
-					}
-                        
-                     </style>
-                    <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#f5048e"/><stop offset="50%" stop-color="#703cc9"/><stop offset="100%" stop-color="#00d4ff"/>
-              </linearGradient>
-            </defs>
-         
-    <g transform="translate(427, 75) scale(1, 1) translate(-427, -75)">
-      <path d="" fill="url(#linear)" opacity="0.4" >
-        <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="0s"
-            values="M0 0L 0 70Q 213.5 110 427 80T 854 105L 854 0 Z;M0 0L 0 95Q 213.5 110 427 90T 854 80L 854 0 Z;M0 0L 0 115Q 213.5 85 427 115T 854 80L 854 0 Z;M0 0L 0 70Q 213.5 110 427 80T 854 105L 854 0 Z">
-        </animate>
-      </path>
-      <path d="" fill="url(#linear)" opacity="0.4" >
-        <animate
-          attributeName="d"
-          dur="20s"
-          repeatCount="indefinite"
-          keyTimes="0;0.333;0.667;1"
-          calcmod="spline"
-          keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-          begin="-10s"
-          values="M0 0L 0 85Q 213.5 130 427 100T 854 110L 854 0 Z;M0 0L 0 100Q 213.5 70 427 70T 854 90L 854 0 Z;M0 0L 0 95Q 213.5 75 427 100T 854 115L 854 0 Z;M0 0L 0 85Q 213.5 130 427 100T 854 110L 854 0 Z">
-        </animate>
-      </path>
-    </g>
-                
-     
-    <text text-anchor="middle" alignment-baseline="middle" x="50%" y="50%" class="text" style="fill:#FFFFFF;" stroke="#none" stroke-width="1" >Hi There!</text>
-                 
-            </svg>
-        
+  <g transform="translate(100.17, 111.12) scale(0.3862)" stroke="#000000" stroke-width="5" stroke-linejoin="round">
+    <polygon points="-21.10,-151.62 21.88,-153.06 141.86,57.54 -55.60,58.13 -33.77,19.78 78.15,19.08" fill="#FFFFFF" />
+    <polygon points="141.86,57.54 121.61,95.48 -120.76,94.08 -22.55,-77.22 -0.24,-39.13 -55.60,58.13" fill="#000000" />
+    <polygon points="-120.76,94.08 -143.49,57.58 -21.10,-151.62 78.15,19.08 34.01,19.36 -22.55,-77.22" fill="#7D7E7C" />
+  </g>
+
+  <g font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="188" y="96" fill="#FFFFFF" font-size="44" font-weight="600" letter-spacing="6">JORGE PARDO</text>
+    <text x="190" y="132" fill="#7D7E7C" font-size="15" font-weight="500" letter-spacing="4.4">SOFTWARE ENGINEER</text>
+  </g>
+</svg>
