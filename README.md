@@ -13,6 +13,7 @@ I build things that run fast. Backend services, native desktop apps, and the too
 ![Angular](https://img.shields.io/badge/Angular-2D2B2B?style=flat-square&logo=angular&logoColor=FFFFFF)
 ![React](https://img.shields.io/badge/React-2D2B2B?style=flat-square&logo=react&logoColor=FFFFFF)
 ![SolidJS](https://img.shields.io/badge/SolidJS-2D2B2B?style=flat-square&logo=solid&logoColor=FFFFFF)
+![Tauri](https://img.shields.io/badge/Tauri-2D2B2B?style=flat-square&logo=tauri&logoColor=FFFFFF)
 ![GPUI](https://img.shields.io/badge/GPUI-2D2B2B?style=flat-square&logo=zedindustries&logoColor=FFFFFF)
 ![WebAssembly](https://img.shields.io/badge/WebAssembly-2D2B2B?style=flat-square&logo=webassembly&logoColor=FFFFFF)
 ![SQL](https://img.shields.io/badge/SQL-2D2B2B?style=flat-square&logo=postgresql&logoColor=FFFFFF)
